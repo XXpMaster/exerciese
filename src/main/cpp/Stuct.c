@@ -10,4 +10,5 @@ int main(int argc,char*argv[])
     sst.a=10;
     sst.b=0;
     printf("struct content is : %d ,%d\n",sst.a,sst.b);
+    return 0;
 }
